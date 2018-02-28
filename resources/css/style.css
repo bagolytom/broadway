@@ -22,7 +22,7 @@
   font-weight: bold;
 }
 
-#footer h3 {
+#footerheader {
   background-image: url("../images/the-flatiron-building.png");
   font-family: Helvetica;
   font-size: 23px;
@@ -43,4 +43,18 @@ h4 {
 
 p {
   font-size: 14px;
+}
+
+#footer {
+  background-color: dimgray;
+}
+
+#footer p {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+}
+
+#footer a {
+  color: white;
 }
